@@ -97,7 +97,7 @@ sub away_hilight_notice {
 	##
 	
 	my ($dest, $text, $stripped) = @_;
-	my $server                   = $dest->{server};
+	my $server                   = $dest->{'server'};
 	my $hilight                  = Irssi::parse_special('$;');
 	
 	
