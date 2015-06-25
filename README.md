@@ -17,11 +17,14 @@ You can load the script automatically by placing it in the
 ## Files
 
   * The `src/` directory:
-    * `away_hilight_notice.pl`      - This script will notice your away message
-                                      in response to a hilight.
-  * `LICENSE`                       - The license of the scripts.
-  * `README.md`                     - The file you are reading at this very
-                                      moment.
+    * `active_notice.pl`
+      * This script shows incoming notices into the active channel.
+    * `away_hilight_notice.pl`
+      * This script will notice your away message in response to a hilight.
+  * `LICENSE`
+    * The license of the scripts.
+  * `README.md`
+    * The file you are reading at this very moment.
 
 
 ## Collaboration
