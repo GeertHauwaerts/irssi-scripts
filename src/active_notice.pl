@@ -180,6 +180,7 @@ sub notice_move {
     }
 }
 
+
 ##
 # Register the signals to hook on.
 ##
